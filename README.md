@@ -1,2 +1,2 @@
-# yahtzee
-Individual Yahtzee assignment repository for CPSC 224 course
+# Single Player Yahtzee
+Runs a command line game of yahtzee
